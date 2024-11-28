@@ -1,3 +1,3 @@
 This folder contains the dataset contents used to produce to LLM
-* biomarker_terms.json - JSON document created from python API connection to https://apps.humanatlas.io/api/
+* biomarker_terms.json - JSON document created from python API connection to SPARQL Knowledge graph of HUBMAP biomarker-tree-model thttps://apps.humanatlas.io/api/
 * biomarkers.csv  - CSV version of JSON document above
