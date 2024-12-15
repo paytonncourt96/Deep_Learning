@@ -5,3 +5,4 @@ Repository for Code Hosting for LLM with RAG on Human Atlas Hubmap
 Folders:
 * Evaluation: Contains human evaluation metrics for both models and statistical analysis
 * Future Work: Contains code for future application work with more thorough fine tuning and prompt engineering
+* HRA Rag Report - Report Detailing work done and references for project
